@@ -1,0 +1,4 @@
+﻿$PSVersionTable.PSVersion
+Get-ExecutionPolicy
+Get-CimInstance Win32_OperatingSystem
+systeminfo
